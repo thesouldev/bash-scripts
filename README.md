@@ -1,5 +1,5 @@
-# bash-scripts
-Commonly used bash scripts
+# Bash Scripts
+Some commonly used bash/installation scripts
 
 [Modify Server Time](convert-utc-to-ist.md)
 
